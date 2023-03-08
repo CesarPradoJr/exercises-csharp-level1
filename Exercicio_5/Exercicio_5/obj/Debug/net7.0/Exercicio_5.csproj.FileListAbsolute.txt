@@ -1,0 +1,15 @@
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\bin\Debug\net7.0\Exercicio_5.exe
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\bin\Debug\net7.0\Exercicio_5.deps.json
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\bin\Debug\net7.0\Exercicio_5.runtimeconfig.json
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\bin\Debug\net7.0\Exercicio_5.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\bin\Debug\net7.0\Exercicio_5.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.csproj.AssemblyReference.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.AssemblyInfoInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.AssemblyInfo.cs
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\refint\Exercicio_5.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\Exercicio_5.genruntimeconfig.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Exercicio_5\Exercicio_5\obj\Debug\net7.0\ref\Exercicio_5.dll

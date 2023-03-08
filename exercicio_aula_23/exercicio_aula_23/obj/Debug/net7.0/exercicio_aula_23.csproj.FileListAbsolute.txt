@@ -1,0 +1,15 @@
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\bin\Debug\net7.0\exercicio_aula_23.exe
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\bin\Debug\net7.0\exercicio_aula_23.deps.json
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\bin\Debug\net7.0\exercicio_aula_23.runtimeconfig.json
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\bin\Debug\net7.0\exercicio_aula_23.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\bin\Debug\net7.0\exercicio_aula_23.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.csproj.AssemblyReference.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.AssemblyInfoInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.AssemblyInfo.cs
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.csproj.CoreCompileInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\refint\exercicio_aula_23.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\exercicio_aula_23.genruntimeconfig.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_aula_23\exercicio_aula_23\obj\Debug\net7.0\ref\exercicio_aula_23.dll

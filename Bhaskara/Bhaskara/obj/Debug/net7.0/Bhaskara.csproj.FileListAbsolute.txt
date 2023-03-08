@@ -1,0 +1,15 @@
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.exe
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.deps.json
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.runtimeconfig.json
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\bin\Debug\net7.0\Bhaskara.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.AssemblyInfo.cs
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\refint\Bhaskara.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\Bhaskara.genruntimeconfig.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\Bhaskara\Bhaskara\obj\Debug\net7.0\ref\Bhaskara.dll

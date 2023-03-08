@@ -1,0 +1,15 @@
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.csproj.AssemblyReference.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.AssemblyInfoInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.AssemblyInfo.cs
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.csproj.CoreCompileInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\bin\Debug\net7.0\aula_32.exe
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\bin\Debug\net7.0\aula_32.deps.json
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\bin\Debug\net7.0\aula_32.runtimeconfig.json
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\bin\Debug\net7.0\aula_32.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\bin\Debug\net7.0\aula_32.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\refint\aula_32.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\aula_32.genruntimeconfig.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\aula_32\aula_32\obj\Debug\net7.0\ref\aula_32.dll

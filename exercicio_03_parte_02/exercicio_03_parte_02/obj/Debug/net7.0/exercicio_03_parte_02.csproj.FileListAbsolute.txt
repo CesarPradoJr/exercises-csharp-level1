@@ -1,0 +1,15 @@
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.csproj.AssemblyReference.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.AssemblyInfoInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.AssemblyInfo.cs
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.csproj.CoreCompileInputs.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\bin\Debug\net7.0\exercicio_03_parte_02.exe
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\bin\Debug\net7.0\exercicio_03_parte_02.deps.json
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\bin\Debug\net7.0\exercicio_03_parte_02.runtimeconfig.json
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\bin\Debug\net7.0\exercicio_03_parte_02.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\bin\Debug\net7.0\exercicio_03_parte_02.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\refint\exercicio_03_parte_02.dll
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.pdb
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\exercicio_03_parte_02.genruntimeconfig.cache
+C:\Users\cesarjunior\Desktop\Projetos C#\exercicio_03_parte_02\exercicio_03_parte_02\obj\Debug\net7.0\ref\exercicio_03_parte_02.dll
